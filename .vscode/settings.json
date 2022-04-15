@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "synch.h": "c",
+        "thread.h": "c",
+        "uio.h": "c",
+        "iovec.h": "c",
+        "elf.h": "c",
+        "proc.h": "c",
+        "test.h": "c",
+        "vfs.h": "c",
+        "vm.h": "c",
+        "types.h": "c",
+        "errno.h": "c"
+    }
+}
